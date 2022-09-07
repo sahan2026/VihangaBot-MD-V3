@@ -1,7 +1,7 @@
 {
     "name": "VIHANA MD",
     "description": "whatsapp md bot build with nodejs",
-    "repository": "https://github.com/vihangayt0/VihangaBot-MD-V2",
+    "repository": "https://github.com/sahan2026/VihangaBot-MD-V3",
     "logo": "https://telegra.ph/file/88d6fdeff08bbc4945901.jpg",
     "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
     "env": {
@@ -44,7 +44,7 @@
 "GROUP_ONLY_MSG" :{
     "description" : "TYPE ONLY GROUP MSG",
     "required" : true,
-  "value" : "*Sorry... Bot Is Only Work In Group*\n\n*https://chat.whatsapp.com/GJ9bAPxYpktAnqbXVsnRuf*"
+  "value" : "*Sorry... Bot Is Only Work In Group*\n\n*https://chat.whatsapp.com/EgypeHkhafqCU32LraR3he*"
     },
         
         "WELCOME_MSG" :{
@@ -98,43 +98,43 @@
 "REACT_NUMBER" :{
     "description" : "TYPE OWNER NUMBER TO OWNER REACT",
     "required" : true,
-  "value" : "947634278433"
+  "value" : "94729359255"
     },
       
 "OWNER_NUMBER" :{
     "description" : "TYPE OWNER NUMBER",
     "required" : true,
-  "value" : "947634278433"
+  "value" : "94729359255"
     },
       
 "OWNER_NUMBER2" :{
     "description" : "TYPE ANY NUMBER",
     "required" : true,
-  "value" : "947634278433"
+  "value" : "94729359255"
     },
     
 "BOT_NAME" :{
     "description" : "TYPE BOT NAME",
     "required" : true,
-  "value" : "𝐕𝐈𝐇𝐀𝐍𝐆𝐀 𝐌𝐃"
+  "value" : "AVI 𝐌𝐃"
     },
       
 "OWNER_NAME" :{
     "description" : "TYPE OWNER NAME",
     "required" : true,
-  "value" : "ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ"
+  "value" : "AVI MD"
     },
       
 "GROUP_LINK" :{
     "description" : "TYPE GROUP LINK",
     "required" : true,
-  "value" : "https://chat.whatsapp.com/GJ9bAPxYpktAnqbXVsnRuf"
+  "value" : "https://chat.whatsapp.com/EgypeHkhafqCU32LraR3he"
 },
       
   "GROUP_LINK2" :{
     "description" : "TYPE GROUP LINK 2",
     "required" : true,
-  "value" : "https://chat.whatsapp.com/GJ9bAPxYpktAnqbXVsnRuf"
+  "value" : "https://chat.whatsapp.com/IM1oEGo0RnnFhhagJw1QYS"
 },
     
 "PACK_NAME" :{
